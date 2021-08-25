@@ -4,12 +4,12 @@ const MyJumbatron = () => {
   return (
     <Jumbotron>
       <Container>
-        <h1>Strive BookStore!</h1>
+        <h1>Welcome to Strive BookStore!</h1>
         <p>
           Choose from our list of Titles below.
         </p>
         <p>
-          <Button variant="primary">Learn more</Button>
+          <Button variant="secondary">Buy Now</Button>
         </p>
       </Container>
     </Jumbotron>
