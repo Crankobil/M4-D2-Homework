@@ -1,3 +1,14 @@
+.NavDropdown{
+    background-color: rgba(0, 0, 0, 0.9);
+    border: 1px solid grey;
+}
+
+.NavDropdown.Item{
+    color: rgba(255, 255, 255, 0.8);
+    background-color: transparent;
+}
+
+
 .main-footer{
   background-color: #343a34;
   padding: 3rem;

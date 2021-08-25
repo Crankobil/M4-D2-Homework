@@ -1,6 +1,6 @@
 import { Component } from "react";
 import { Container, Row, Col, Card, Button } from "react-bootstrap";
-import books from "../data/Books.json";
+import books from "../data/scifi.json";
 
 export default class BookList extends Component {
   render() {
